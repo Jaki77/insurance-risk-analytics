@@ -11,7 +11,7 @@ venv/
 .vscode/
 *.log
 .ipynb_checkpoints/
-*.ipynb
+plots/
 data/
 models/
 .dvc/
