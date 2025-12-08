@@ -14,4 +14,3 @@ venv/
 plots/
 data/
 models/
-.dvc/
