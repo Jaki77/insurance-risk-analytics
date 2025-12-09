@@ -1,8 +1,8 @@
-# Core data processing
+# Core dependencies
 pandas
 numpy
+scikit-learn
 scipy
-python-dateutil
 
 # Visualization
 matplotlib
@@ -10,23 +10,24 @@ seaborn
 plotly
 missingno
 
-# Data quality
-scikit-learn
+# Machine Learning
+xgboost
+shap
+lime
+imbalanced-learn
+statsmodels
 
-# Jupyter
+# Data Version Control
+dvc
+
+# Jupyter/Notebook
 jupyter
 ipykernel
 ipywidgets
 
 # Utilities
 tqdm
-colorama
 loguru
-
-# File handling
-openpyxl
-pyarrow
-
-# Testing
+colorama
+python-dateutil
 pytest
-pytest-cov
