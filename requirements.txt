@@ -1,9 +1,32 @@
+# Core data processing
 pandas
 numpy
+scipy
+python-dateutil
+
+# Visualization
 matplotlib
 seaborn
 plotly
-jupyter
-scipy
-statsmodels
+missingno
+
+# Data quality
 scikit-learn
+
+# Jupyter
+jupyter
+ipykernel
+ipywidgets
+
+# Utilities
+tqdm
+colorama
+loguru
+
+# File handling
+openpyxl
+pyarrow
+
+# Testing
+pytest
+pytest-cov
